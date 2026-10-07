@@ -1,0 +1,6 @@
+{
+  "name": "GayCoX",
+  "description": "GayCoX – Intelligenter Batch-Bilder-Downloader & Galerie-Scraper mit Vorschau und Filterung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
